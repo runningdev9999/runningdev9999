@@ -13,6 +13,7 @@
 **AI / Machine Learning**
 - Language Models (LLMs), NLP, AI Agents, Chatbots
 - Voice Interfaces, Conversational AI
+- Computer Vision: OpenCV, YOLO (v3, v4, v5, v8)
 - Python (PyTorch, TensorFlow, LangChain, OpenAI API)
 
 **Full Stack Development**
