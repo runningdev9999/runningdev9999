@@ -28,7 +28,7 @@
 ## 📈 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=runningdev9999&layout=compact&theme=github_dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=runningdev9999&show_icons=true&theme=github_dark)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=runningdev9999&show_icons=true&theme=github_dark) -->
 
 ## 📫 Get in Touch
 
